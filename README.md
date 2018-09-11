@@ -9,3 +9,6 @@ https://angular.io/guide/attribute-directives
 https://angular.io/guide/template-syntax
 https://angular.io/guide/component-styles
 
+#Directives
+https://angular.io/guide/structural-directives
+https://angular.io/guide/attribute-directives
